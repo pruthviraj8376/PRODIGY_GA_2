@@ -7,5 +7,6 @@ Used an pre-trained generative model called Stable diffusion to create images us
 3. **Training**: The model was trained on millions of image-caption pairs to learn how to "visualize" words.
 
 > Just like a painter turns imagination into art, these models turn text into pictures — using deep learning and mathematics.
+
 ##Author
 Pruthviraj Bhapkar
