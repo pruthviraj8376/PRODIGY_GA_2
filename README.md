@@ -8,5 +8,5 @@ Used an pre-trained generative model called Stable diffusion to create images us
 
 > Just like a painter turns imagination into art, these models turn text into pictures — using deep learning and mathematics.
 
-##Author
+Author
 Pruthviraj Bhapkar
